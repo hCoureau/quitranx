@@ -1,0 +1,319 @@
+groups:
+  A:
+    options:
+      default: true
+      weight: '1'
+    permissions:
+    - prisonutils.autosell
+    - prisonutils.autopickup
+    - prisonutils.autosmelt
+    - prisonutils.autoblock
+    - essentials.kit
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.pay.multiple
+    - essentials.afk
+    - essentials.help
+    - essentials.ignore
+    - essentials.info
+    - essentials.list
+    - essentials.mail
+    - essentials.send
+    - essentials.msg
+    - essentials.suicide
+    - essentials.spawn
+    - essentials.tpaccept
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warp.a
+    - essentials.silentjoin
+    - essentials.silentquit
+    - prisonutils.autosell
+    - prisonutils.autopickup
+    - prisonutils.autosmelt
+    - prisonutils.autoblock
+    - plots.use
+    - plots.plot.1
+    - plots.permpack.basic
+    - plots.permpack.basicinbox
+    - plots.permpack.basicflags
+    - ezranks.rankup
+    - ezranks.listranks
+    - quicksell.prices
+    - areashop.help
+    - areashop.rent
+    - areashop.info
+    - areashop.me
+    - areashop.teleport
+    - areashop.find
+    - areashop.limits.default
+    - ezranks.rank.A
+  B:
+    inheritance:
+    - A
+    options:
+      weight: '2'
+    permissions:
+    - essentials.warp.b
+    - ezranks.rank.B
+  C:
+    inheritance:
+    - B
+    options:
+      weight: '3'
+    permissions:
+    - essentials.warp.c
+    - ezranks.rank.C
+  D:
+    inheritance:
+    - C
+    options:
+      weight: '4'
+    permissions:
+    - essentials.warp.d
+    - ezranks.rank.D
+  E:
+    inheritance:
+    - D
+    options:
+      weight: '5'
+    permissions:
+    - essentials.warp.e
+    - ezranks.rank.E
+  F:
+    inheritance:
+    - E
+    options:
+      weight: '6'
+    permissions:
+    - essentials.warp.f
+    - ezranks.rank.F
+  G:
+    inheritance:
+    - F
+    options:
+      weight: '7'
+    permissions:
+    - essentials.warp.g
+    - ezranks.rank.G
+  H:
+    inheritance:
+    - G
+    options:
+      weight: '8'
+    permissions:
+    - essentials.warp.h
+    - ezranks.rank.H
+  I:
+    inheritance:
+    - H
+    options:
+      weight: '9'
+    permissions:
+    - essentials.warp.i
+    - ezranks.rank.I
+  J:
+    inheritance:
+    - I
+    options:
+      weight: '10'
+    permissions:
+    - essentials.warp.j
+    - ezranks.rank.J
+  K:
+    inheritance:
+    - J
+    options:
+      weight: '11'
+    permissions:
+    - essentials.warp.k
+    - ezranks.rank.K
+  L:
+    inheritance:
+    - K
+    options:
+      weight: '12'
+    permissions:
+    - essentials.warp.l
+    - ezranks.rank.L
+  M:
+    inheritance:
+    - L
+    options:
+      weight: '13'
+    permissions:
+    - essentials.warp.m
+    - ezranks.rank.M
+  N:
+    inheritance:
+    - M
+    options:
+      weight: '14'
+    permissions:
+    - essentials.warp.n
+    - ezranks.rank.N
+  O:
+    inheritance:
+    - N
+    options:
+      weight: '15'
+    permissions:
+    - essentials.warp.o
+    - ezranks.rank.O
+  P:
+    inheritance:
+    - O
+    options:
+      weight: '16'
+    permissions:
+    - essentials.warp.p
+    - ezranks.rank.P
+  Q:
+    inheritance:
+    - P
+    options:
+      weight: '17'
+    permissions:
+    - essentials.warp.q
+    - ezranks.rank.Q
+  R:
+    inheritance:
+    - Q
+    options:
+      weight: '18'
+    permissions:
+    - essentials.warp.r
+    - ezranks.rank.R
+  S:
+    inheritance:
+    - R
+    options:
+      weight: '19'
+    permissions:
+    - essentials.warp.s
+    - ezranks.rank.S
+  T:
+    inheritance:
+    - S
+    options:
+      weight: '20'
+    permissions:
+    - essentials.warp.t
+    - ezranks.rank.T
+  U:
+    inheritance:
+    - T
+    options:
+      weight: '21'
+    permissions:
+    - essentials.warp.u
+    - ezranks.rank.U
+  V:
+    inheritance:
+    - U
+    options:
+      weight: '22'
+    permissions:
+    - essentials.warp.v
+    - ezranks.rank.V
+  W:
+    inheritance:
+    - V
+    options:
+      weight: '23'
+    permissions:
+    - essentials.warp.w
+    - ezranks.rank.W
+  X:
+    inheritance:
+    - W
+    options:
+      weight: '24'
+    permissions:
+    - essentials.warp.x
+    - ezranks.rank.X
+  Y:
+    inheritance:
+    - X
+    options:
+      weight: '25'
+    permissions:
+    - essentials.warp.y
+    - ezranks.rank.Y
+  Z:
+    inheritance:
+    - Y
+    options:
+      weight: '26'
+    permissions:
+    - essentials.warp.z
+    - ezranks.rank.Z
+  FREE:
+    inheritance:
+    - Z
+    options:
+      weight: '27'
+    permissions:
+    - essentials.warp.free
+    - ezranks.lastrank
+  Mod:
+    inheritance:
+    - A
+    options:
+      weight: '50'
+      prefix: '&8[&9Mod&8] '
+  VIP:
+    inheritance:
+    - A
+    options:
+      weight: '60'
+      suffix: ' &8[&3VIP&8]'
+    permissions:
+    - essentials.warp.vip
+    - ezranks.autorankup
+  VIP1:
+    inheritance:
+    - VIP
+    options:
+      weight: '61'
+      suffix: ' &8[&3VIP1&8]'
+  MVP:
+    inheritance:
+    - VIP1
+    options:
+      weight: '62'
+      suffix: ' &8[&bMVP&8]'
+  MVP1:
+    inheritance:
+    - MVP
+    options:
+      weight: '63'
+      suffix: ' &8[&bMVP1&8]'
+  Owner:
+    inheritance:
+    - Mod
+    options:
+      weight: '75'
+      prefix: '&8[&4Owner&8] '
+    permissions:
+    - quickmarket.shop.infinite
+    - quickmarket.shop.bypass
+    - quicksell.manage
+    - quicksell.booster
+schema-version: 1
+users:
+  18b61fc0-be3a-4167-bb5c-85e3d49d5166:
+    options:
+      name: Koz4Christ
+    group:
+    - VIP
+    - Owner
+    - B
+  84e2de06-9ebe-4dbe-8cb1-462b41042eeb:
+    group:
+    - Owner
+    options:
+      name: LiovoMC
+    permissions: []

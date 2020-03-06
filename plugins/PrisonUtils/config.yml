@@ -1,0 +1,142 @@
+# 
+# Name: PrisonUtils
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+mining:
+  auto-smelt: true
+  enable-fortune: true
+  straight-to-inventory: true
+  backpacks: true
+  prefer-backpacks: true
+  unbreakable-pickaxes: false
+  auto-block: true
+  block-whitelist: []
+  autosmelt-blacklist:
+  - LOG
+  - LOG_2
+  block-counter: true
+  soulbound-pickaxes: true
+  soulbound-backpacks: true
+autosell:
+  summary-every: 100
+pickaxe:
+  name:
+    enabled: true
+    prefix: '&7({DURABILITY}) &b{PLAYER}''s '
+    suffix: ' &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  lore:
+    enabled: false
+    lines:
+    - '&7Pickaxe Owner: &e{PLAYER}'
+    - '&7Blocks broken: &e{BLOCKSBROKEN}'
+    - '&7Durability: &e{DURABILITY}'
+    - ''
+shovel:
+  name:
+    enabled: true
+    prefix: '&7({DURABILITY}) &b{PLAYER}''s '
+    suffix: ' &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  lore:
+    enabled: false
+    lines:
+    - '&7Shovel Owner: &e{PLAYER}'
+    - '&7Blocks broken: &e{BLOCKSBROKEN}'
+    - '&7Durability: &e{DURABILITY}'
+    - ''
+axe:
+  name:
+    enabled: true
+    prefix: '&7({DURABILITY}) &b{PLAYER}''s '
+    suffix: ' &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  lore:
+    enabled: false
+    lines:
+    - '&7Axe Owner: &e{PLAYER}'
+    - '&7Blocks broken: &e{BLOCKSBROKEN}'
+    - '&7Durability: &e{DURABILITY}'
+    - ''
+full-inventory:
+  sound: true
+  title: true
+  actionbar: false
+  allow-breaking-blocks: true
+silktouch-whitelist:
+- COAL_ORE-
+- WEB
+- DIAMOND_ORE
+- EMERALD_ORE
+- GRASS
+- HUGE_MUSHROOM_1
+- HUGE_MUSHROOM_2
+- ICE
+- LAPIS_ORE
+- MYCEL
+- DIRT
+- PACKED_ICE
+- QUARTZ_ORE
+- REDSTONE_ORE
+fortune:
+  use-whitelist: false
+  block-whitelist:
+  - COAL_ORE
+  - REDSTONE_ORE
+  - GLOWING_REDSTONE_ORE
+  - LAPIS_ORE
+  - QUARTZ_ORE
+  - DIAMOND_ORE
+  - EMERALD_ORE
+  world-blacklist:
+  - world_nether
+  level-modifier: 0.6
+  min-modifier: 0.2
+  regions:
+    use-whitelist: false
+    whitelist:
+    - a
+    - b
+    - c
+backpacks:
+  name:
+    normal: '&eBackpack'
+    soulbound: '&eReinforced Backpack'
+exp:
+  whitelist:
+  - COAL_ORE
+  - REDSTONE_ORE
+  - GLOWING_REDSTONE_ORE
+  - LAPIS_ORE
+  - QUARTZ_ORE
+  - DIAMOND_ORE
+  - EMERALD_ORE
+  auto-exp: true
+environment:
+  fly-on-join: false
+  permanent-effects:
+  - NIGHT_VISION
+  - SATURATION
+  prevented-damage:
+  - FALL
+  - SUFFOCATION
+  enable-weather: false
+options:
+  auto-update: true
+  debug: false
+world-blacklist:
+- world_the_end
+- world_nether
+block-rewards:
+  enabled: false
+  repeating:
+    '1': []
+  standard:
+    '100':
+    - say '{PLAYER} broke a hundred blocks'

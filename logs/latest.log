@@ -1,0 +1,348 @@
+[20:53:30] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:53:30] [Server thread/INFO]: Loading properties
+[20:53:30] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:30] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-930a59c (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:53:30] [Server thread/INFO]: Debug logging is disabled
+[20:53:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:53:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:53:30] [Server thread/INFO]: Generating keypair
+[20:53:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:53:31] [Server thread/INFO]: Using default channel type
+[20:53:32] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:53:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[20:53:32] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0.1-b332
+[20:53:32] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[20:53:32] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
+[20:53:32] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.16
+[20:53:32] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[20:53:32] [Server thread/INFO]: [Votifier] Loading Votifier v1.9
+[20:53:32] [Server thread/INFO]: [EZRanksPro] Loading EZRanksPro v1.3.2
+[20:53:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[20:53:32] [Server thread/INFO]: [QuickSell] Loading QuickSell v2.0.6
+[20:53:32] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b268
+[20:53:32] [Server thread/INFO]: [SellAll] Loading SellAll v4.1
+[20:53:32] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.0.1-b268
+[20:53:32] [Server thread/INFO]: [PlayerVaults] Loading PlayerVaults v3.6.0-bSNAPSHOT
+[20:53:32] [Server thread/INFO]: [PrisonUtils] Loading PrisonUtils v1.7
+[20:53:32] [Server thread/INFO]: [PlotSquared] Loading PlotSquared v3.2.26
+[20:53:32] [Server thread/INFO]: [GAListener] Loading GAListener v1.3.1
+[20:53:32] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b268
+[20:53:32] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b711
+[20:53:32] [Server thread/INFO]: [AreaShop] Loading AreaShop v2.2.1
+[20:53:32] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b400
+[20:53:32] [Server thread/INFO]: [QuickMarket] Loading QuickMarket v1.2.4
+[20:53:32] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.3.6
+[20:53:32] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[20:53:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:53:32] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[20:53:32] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[20:53:32] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:53:32] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[20:53:32] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[20:53:32] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[20:53:32] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v3.2.26
+[20:53:32] [Server thread/INFO]: $1PlotSquared is now enabled[m
+[20:53:33] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
+[20:53:33] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
+[20:53:33] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m [0;33;22mPlotSquared is using online UUIDs[m
+[20:53:33] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:53:33] [Server thread/INFO]: Preparing level "Prison"
+[20:53:33] [Server thread/INFO]: -------- World Settings For [Prison] --------
+[20:53:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:53:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:53:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:53:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:53:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:53:33] [Server thread/INFO]: View Distance: 10
+[20:53:33] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:53:33] [Server thread/INFO]: Clear tick list: false
+[20:53:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:53:33] [Server thread/INFO]: Mob Spawn Range: 4
+[20:53:33] [Server thread/INFO]: Anti X-Ray: true
+[20:53:33] [Server thread/INFO]: 	Engine Mode: 1
+[20:53:33] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:53:33] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:53:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:53:33] [Server thread/INFO]: Random Lighting Updates: false
+[20:53:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:53:33] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:53:33] [Server thread/INFO]: Max TNT Explosions: 100
+[20:53:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:53:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:53:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:53:33] [Server thread/INFO]: Structure Info Saving: true
+[20:53:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:53:33] [Server thread/INFO]: Max Entity Collisions: 8
+[20:53:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:53:34] [Server thread/INFO]: -------- World Settings For [Prison_the_end] --------
+[20:53:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:53:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:53:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:53:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:53:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:53:34] [Server thread/INFO]: View Distance: 10
+[20:53:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:53:34] [Server thread/INFO]: Clear tick list: false
+[20:53:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:53:34] [Server thread/INFO]: Mob Spawn Range: 4
+[20:53:34] [Server thread/INFO]: Anti X-Ray: true
+[20:53:34] [Server thread/INFO]: 	Engine Mode: 1
+[20:53:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:53:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:53:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:53:34] [Server thread/INFO]: Random Lighting Updates: false
+[20:53:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:53:34] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:53:34] [Server thread/INFO]: Max TNT Explosions: 100
+[20:53:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:53:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:53:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:53:34] [Server thread/INFO]: Structure Info Saving: true
+[20:53:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:53:34] [Server thread/INFO]: Max Entity Collisions: 8
+[20:53:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:53:34] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6542260468761586978)
+[20:53:34] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3781761334487040951)
+[20:53:35] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[20:53:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:53:35] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:53:35] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0.1-b332
+[20:53:35] [Server thread/INFO]: GroupManager - INFO - World Found: prison
+[20:53:35] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[20:53:35] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[20:53:35] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[20:53:35] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[20:53:35] [Server thread/INFO]: GroupManager version 2.0.1-b332 is enabled!
+[20:53:35] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[20:53:35] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[20:53:35] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[20:53:35] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[20:53:35] [Server thread/INFO]: [ClearLag] Config not found. Generating default config...
+[20:53:35] [Server thread/INFO]: [ClearLag] Loading modules...
+[20:53:35] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[20:53:35] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[20:53:35] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[20:53:35] [Thread-9/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[20:53:35] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
+[20:53:35] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[20:53:35] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[20:53:35] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:53:35] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[20:53:35] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[20:53:35] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.16
+[20:53:35] [Server thread/INFO]: [Votifier] Enabling Votifier v1.9
+[20:53:35] [Server thread/INFO]: [Votifier] Votifier enabled.
+[20:53:35] [Server thread/INFO]: [EZRanksPro] Enabling EZRanksPro v1.3.2
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Loading EZRanksPro messages.yml
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Loading rankups.yml....
+[20:53:36] [Server thread/WARN]: [EZRanksPro] Rankup requirement message successfully loaded!
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Last rank set to rank: FREE
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: A to B successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: B to C successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: C to D successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: D to E successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: E to F successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: F to G successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: G to H successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: H to I successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: I to J successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: J to K successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: K to L successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: L to M successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: M to N successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: N to O successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: O to P successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: P to Q successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: Q to R successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: R to S successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: S to T successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: T to U successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: U to V successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: V to W successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: W to X successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: X to Y successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: Y to Z successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Rankup: Z to FREE successfully loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] 26 rankup(s) loaded
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Last rank set to rank: FREE
+[20:53:36] [Server thread/INFO]: [EZRanksPro] 1 rankup cost discounts loaded!
+[20:53:36] [Server thread/INFO]: [EZRanksPro] 1 rankup cost multipliers loaded!
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Chat listener registered, Add {ezrankspro_rankprefix} to your chat formatting plugin for chat prefix integration
+[20:53:36] [Server thread/INFO]: [EZRanksPro] Autorankup task started and will check if toggled players can rankup every 60 seconds
+[20:53:36] [Thread-9/INFO]: [ClearLag] No updates found!
+[20:53:36] [Server thread/INFO]: [EZRanksPro] An update for EZRanksPro (EZRanksPro v1.6.0)
+[20:53:36] [Server thread/INFO]: [EZRanksPro] is available at https://www.spigotmc.org/resources/ezrankspro.10731/
+[20:53:36] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison) TNT ignition is PERMITTED.
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison) Lighters are PERMITTED.
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison) Lava fire is blocked.
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison) Fire spread is UNRESTRICTED.
+[20:53:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Prison'
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison_the_end) TNT ignition is PERMITTED.
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison_the_end) Lighters are PERMITTED.
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison_the_end) Lava fire is blocked.
+[20:53:36] [Server thread/INFO]: [WorldGuard] (Prison_the_end) Fire spread is UNRESTRICTED.
+[20:53:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Prison_the_end'
+[20:53:36] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:53:36] [Server thread/INFO]: [QuickSell] Enabling QuickSell v2.0.6
+[20:53:36] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b268
+[20:53:37] [Server thread/INFO]: Using locale en_GB
+[20:53:37] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as spawner provider.
+[20:53:37] [Server thread/INFO]: Using locale en_GB
+[20:53:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[20:53:37] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[20:53:37] [Server thread/INFO]: [SellAll] Enabling SellAll v4.1
+[20:53:37] [Server thread/INFO]: Registered WorldGuardListeners
+[20:53:37] [Server thread/INFO]: [SellAll] Checking for a new version...
+[20:53:37] [Server thread/INFO]: SellAll verson 4.1 has been enabled!
+[20:53:37] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.0.1-b268
+[20:53:37] [Server thread/INFO]: [PlayerVaults] Enabling PlayerVaults v3.6.0-bSNAPSHOT
+[20:53:37] [Server thread/INFO]: [PrisonUtils] Enabling PrisonUtils v1.7
+[20:53:37] [Server thread/INFO]: [GAListener] Enabling GAListener v1.3.1
+[20:53:37] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Enabled
+[20:53:37] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b268
+[20:53:37] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b711
+[20:53:37] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[20:53:37] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[20:53:37] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[20:53:37] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[20:53:37] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[20:53:37] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[20:53:37] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
+[20:53:38] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b711 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[20:53:38] [Server thread/INFO]: [AreaShop] Enabling AreaShop v2.2.1
+[20:53:38] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b400
+[20:53:38] [Server thread/INFO]: [Multiverse-Inventories] The following worlds for group 'default' are not loaded: world, world_the_end, world_nether
+[20:53:38] [Server thread/INFO]: [Multiverse-Inventories 2.5-b400] enabled.
+[20:53:38] [Server thread/INFO]: [QuickMarket] Enabling QuickMarket v1.2.4
+[20:53:38] [Server thread/INFO]: [QuickMarket] Loaded 0 Shop(s) for World "Prison"
+[20:53:38] [Server thread/INFO]: [QuickMarket] Loaded 0 Shop(s) for World "Prison_the_end"
+[20:53:38] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.3.6
+[20:53:38] [Server thread/INFO]: [MineResetLite] MineResetLite version 0.3.6 enabled!
+[20:53:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:53:38] [Server thread/INFO]: Done (4.956s)! For help, type "help" or "?"
+[20:53:38] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+[20:53:38] [Craft Scheduler Thread - 5/INFO]: [PlayerVaults] We didn't find an update!
+[20:53:38] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[20:53:38] [Craft Scheduler Thread - 19/INFO]: [Vault] Checking for Updates ... 
+[20:53:38] [Craft Scheduler Thread - 10/INFO]: [GAListener] Connection established!
+[20:53:38] [Craft Scheduler Thread - 10/INFO]: [GAListener] Loading queued votes
+[20:53:38] [Craft Scheduler Thread - 10/INFO]: [GAListener] Loaded 0 queued votes
+[20:53:39] [Craft Scheduler Thread - 6/INFO]: [0;33;22mPlotSquared v3.5.1 is available:[m
+[20:53:39] [Craft Scheduler Thread - 6/INFO]: [0;30;1m - [0;36;22mUse: [0;37;22m/plot update[m
+[20:53:39] [Craft Scheduler Thread - 6/INFO]: [0;30;1m - [0;36;22mOr: [0;37;22mhttps://raw.githubusercontent.com/IntellectualSites/PlotSquared/master/target/PlotSquared-Bukkit.jar[m
+[20:53:39] [Craft Scheduler Thread - 4/INFO]: [AreaShop] Update from AreaShop V2.2.1 to AreaShop V2.4.0 available, get the latest version at http://dev.bukkit.org/bukkit-plugins/regionbuyandrent/
+[20:53:39] [Craft Scheduler Thread - 19/INFO]: [Vault] No new version available
+[20:53:39] [Thread-13/INFO]: [CS-CoreLib - Updater] PrisonUtils is up to date!
+[20:53:39] [Thread-17/INFO]: [CS-CoreLib - Updater] QuickMarket is up to date!
+[20:53:39] [Thread-15/INFO]: [CS-CoreLib - Updater] QuickSell is up to date!
+[20:53:44] [User Authenticator #1/INFO]: UUID of player LiovoMC is 84e2de06-9ebe-4dbe-8cb1-462b41042eeb
+[20:53:45] [Server thread/INFO]: [SellAll] Checking for a new version...
+[20:53:45] [Server thread/INFO]: LiovoMC[/127.0.0.1:52811] logged in with entity id 17 at ([Prison]-1093.3850647305005, 48.47801721667485, -481.1921703255122)
+[20:53:45] [Craft Scheduler Thread - 9/INFO]: [GAListener] Player: LiovoMC has 0 votes
+[20:53:47] [Async Chat Thread - #0/INFO]: [m[0;30;1m[[0;33;22mA[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:53:53] [Server thread/INFO]: LiovoMC issued server command: /epx
+[20:53:59] [Craft Scheduler Thread - 1/INFO]: [Metrics] Connection timed out: connect
+[20:54:04] [Server thread/INFO]: LiovoMC issued server command: /manulistg
+[20:54:06] [Server thread/INFO]: LiovoMC issued server command: /manulist
+[20:54:08] [Server thread/INFO]: LiovoMC issued server command: /manulist
+[20:54:10] [Server thread/INFO]: LiovoMC issued server command: /manulist
+[20:54:11] [Async Chat Thread - #0/INFO]: [m[0;30;1m[[0;33;22mA[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: l[m
+[20:54:22] [Server thread/INFO]: LiovoMC issued server command: /pex
+[20:54:26] [Server thread/INFO]: LiovoMC issued server command: /pl
+[20:54:34] [Server thread/INFO]: LiovoMC issued server command: /manuaddp LiovoMC *
+[20:54:35] [Server thread/INFO]: LiovoMC issued server command: /pl
+[20:56:15] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:56:20] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: ho[m
+[20:56:25] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:56:49] [Server thread/INFO]: [0;37;1mPermission "*" removed![m
+[20:56:50] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: h[m
+[20:56:59] [Server thread/INFO]: [0;37;1mPermission "ezranks.Z" removed![m
+[20:57:00] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:57:02] [Server thread/INFO]: LiovoMC issued server command: /deop LiovoMC
+[20:57:03] [Server thread/INFO]: [LiovoMC: De-opped LiovoMC]
+[20:57:03] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:57:05] [Server thread/INFO]: LiovoMC issued server command: /p
+[20:57:06] [Server thread/INFO]: LiovoMC issued server command: /o
+[20:57:07] [Server thread/INFO]: LiovoMC issued server command: /op
+[20:57:09] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:57:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[20:57:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[20:57:20] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[20:57:23] [Server thread/INFO]: CONSOLE issued server command: /help ez
+[20:57:23] [Server thread/INFO]: To view help from the console, type ?.[m
+[20:57:28] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Search [0;33;1m--------------------------[m
+[20:57:28] [Server thread/INFO]: [0;37;22mSearch for: ezranks[m
+[20:57:28] [Server thread/INFO]: [0;33;22mEZRanksPro: [0;37;1mAll commands for EZRanksPro[m
+[20:57:28] [Server thread/INFO]: [0;33;22m/ezrankspro: [0;37;1madmin command[m
+[20:57:30] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: EZRanksPro [0;33;1m----------------------[m
+[20:57:30] [Server thread/INFO]: [0;37;22mBelow is a list of all EZRanksPro commands:[m
+[20:57:30] [Server thread/INFO]: [0;33;22m/autorankup: [0;37;1mauto rankup command[m
+[20:57:30] [Server thread/INFO]: [0;33;22m/ezrankspro: [0;37;1madmin command[m
+[20:57:30] [Server thread/INFO]: [0;33;22m/ranks: [0;37;1mranks command[m
+[20:57:30] [Server thread/INFO]: [0;33;22m/rankup: [0;37;1mrankup command[m
+[20:57:33] [Server thread/INFO]: [0;30;1m[9m-----------------------------------------------------[m
+[20:57:33] [Server thread/INFO]: [0;37;1mEZ[0;37;22mRanks[0;31;1mPro [0;37;1mversion: [0;33;1m1.3.2[m
+[20:57:33] [Server thread/INFO]: [0;37;1mCreated by: [0;36;1mextended_clip[m
+[20:57:33] [Server thread/INFO]: [0;30;1m[9m-----------------------------------------------------[m
+[20:57:41] [Server thread/INFO]: LiovoMC issued server command: /rankup
+[20:57:47] [Async Chat Thread - #1/INFO]: [m[0;30;1m[[0;36;1mZ[0;30;1m] [0;30;1m[[0;31;22mOwner[0;30;1m] LiovoMC[m: hi[m
+[20:59:13] [Server thread/INFO]: LiovoMC issued server command: /ezrankspro
+[20:59:25] [Server thread/INFO]: Stopping the server
+[20:59:25] [Server thread/INFO]: Stopping server
+[20:59:25] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v0.3.6
+[20:59:25] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
+[20:59:25] [Server thread/INFO]: [QuickMarket] Disabling QuickMarket v1.2.4
+[20:59:25] [Server thread/INFO]: [QuickMarket] Saved 0 Shop(s)!
+[20:59:25] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b400
+[20:59:25] [Server thread/INFO]: [AreaShop] Disabling AreaShop v2.2.1
+[20:59:25] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b711
+[20:59:25] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b268
+[20:59:25] [Server thread/INFO]: [GAListener] Disabling GAListener v1.3.1
+[20:59:25] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Disabled
+[20:59:25] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v3.2.26
+[20:59:25] [Server thread/INFO]: [PrisonUtils] Disabling PrisonUtils v1.7
+[20:59:25] [Server thread/INFO]: [PlayerVaults] Disabling PlayerVaults v3.6.0-bSNAPSHOT
+[20:59:25] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.0.1-b268
+[20:59:25] [Server thread/INFO]: [SellAll] Disabling SellAll v4.1
+[20:59:25] [Server thread/INFO]: [SellAll] Disabled Version 4.1
+[20:59:25] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b268
+[20:59:25] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[20:59:25] [Server thread/INFO]: [QuickSell] Disabling QuickSell v2.0.6
+[20:59:25] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[20:59:25] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:59:25] [Server thread/INFO]: [EZRanksPro] Disabling EZRanksPro v1.3.2
+[20:59:25] [Server thread/INFO]: [Votifier] Disabling Votifier v1.9
+[20:59:25] [Server thread/INFO]: [Votifier] Votifier disabled.
+[20:59:25] [Thread-10/WARN]: [Votifier] Protocol error. Ignoring packet - socket closed
+[20:59:25] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[20:59:25] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.16
+[20:59:25] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
+[20:59:25] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:59:25] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
+[20:59:25] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[20:59:25] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0.1-b332
+[20:59:25] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[20:59:25] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[20:59:25] [Server thread/INFO]: GroupManager version 2.0.1-b332 is disabled!
+[20:59:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[20:59:25] [Server thread/INFO]: Saving players
+[20:59:25] [Server thread/INFO]: LiovoMC lost connection: Server closed
+[20:59:26] [Server thread/INFO]: LiovoMC left the game.
+[20:59:26] [Server thread/INFO]: Saving worlds
+[20:59:26] [Server thread/INFO]: Saving chunks for level 'Prison'/Overworld
+[20:59:26] [Server thread/INFO]: Saving chunks for level 'Prison_the_end'/The End

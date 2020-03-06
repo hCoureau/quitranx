@@ -1,0 +1,22 @@
+users:
+  84e2de06-9ebe-4dbe-8cb1-462b41042eeb:
+    lastname: LiovoMC
+    group: Default
+    subgroups: []
+    permissions:
+    - '*'
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

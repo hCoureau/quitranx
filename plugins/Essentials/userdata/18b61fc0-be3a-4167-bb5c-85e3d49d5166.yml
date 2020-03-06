@@ -1,0 +1,24 @@
+lastAccountName: Koz4Christ
+timestamps:
+  login: 1454763019129
+  kits:
+    start: 1454248292545
+  logout: 1454763019098
+  lastteleport: 1454272503189
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Prison
+  x: -1057.8412594420704
+  y: 8.015700882806756
+  z: -522.4382469041158
+  yaw: -103.64996
+  pitch: 58.500008
+money: '100.0'
+logoutlocation:
+  world: Prison
+  x: -994.7673610068448
+  y: 4.0
+  z: -522.4233398149634
+  yaw: 166.95251
+  pitch: 4.5000005
+afk: true

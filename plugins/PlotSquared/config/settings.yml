@@ -1,0 +1,105 @@
+version: 3.2.26
+platform: Bukkit
+clear:
+  'on':
+    ban: false
+  auto:
+    calibration:
+      variety: 0
+      changes_sd: 1
+      faces: 0
+      data_sd: 0
+      air: 0
+      air_sd: 0
+      faces_sd: 0
+      data: 0
+      variety_sd: 0
+      changes: 1
+    days: 7
+    clear-interval-seconds: 120
+    threshold: 1
+    enabled: true
+  fastmode: false
+confirmation:
+  clear: true
+  delete: true
+  unlink: true
+UUID:
+  offline: false
+  force-lowercase: false
+cache:
+  permissions: true
+  ratings: true
+chunk-processor:
+  auto-trim: false
+  auto-unload: false
+  enabled: false
+  max-blockstates: 4096
+  experimental-fast-async-worldedit: false
+  max-entities: 512
+  disable-physics: false
+worldedit:
+  require-selection-in-mask: true
+  max-volume: 500000
+  enable-for-helpers: false
+  queue-commands: false
+  max-iterations: 1000
+  blacklist:
+  - cs
+  - .s
+  - restore
+  - snapshot
+  - delchunks
+  - listchunks
+schematics:
+  save_path: plugins/PlotSquared/schematics
+web:
+  url: http://empcraft.com/plots/
+  server-ip: your.ip.here
+approval:
+  done:
+    required-for-download: false
+    restrict-building: false
+    counts-towards-limit: false
+  ratings:
+    require-done: false
+chat:
+  fancy: true
+console:
+  color: true
+kill_road_mobs: false
+merge:
+  remove-terrain: true
+mob_pathfinding: true
+plotme-alias: false
+plotme-convert:
+  enabled: true
+  cache-uuids: false
+global_limit: false
+update-notifications: true
+metrics: true
+comments:
+  notifications:
+    enabled: false
+protection:
+  redstone:
+    disable-unoccupied: false
+    disable-offline: false
+  piston:
+    falling-blocks: true
+teleport:
+  on_login: false
+  delay: 0
+claim:
+  max-auto-area: 4
+uuid:
+  use_sqluuidhandler: false
+  read-from-disk: false
+max_plots: 127
+bo3:
+  save_path: BO3
+kill_road_vehicles: false
+debug: false
+clusters:
+  enabled: false
+titles: true

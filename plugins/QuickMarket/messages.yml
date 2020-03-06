@@ -1,0 +1,51 @@
+prefix:
+- '&6Quickmarket &7> '
+shops:
+  not-a-chest:
+  - '&cThis Sign must be facing a Chest!'
+  not-a-valid-price:
+  - '&cThe Price on Line 3 is not valid!'
+  not-a-valid-amount:
+  - '&cThe Amount on Line 2 is not valid!'
+  not-a-valid-type:
+  - '&cUnknown Shop Type on Line 4 Allowed: (sell/buy)'
+  full-inventory:
+  - '&4That Shop is full!'
+  insufficient-funds:
+  - '&cYou do not have enough Money to buy from this Shop'
+  insufficient-funds-owner:
+  - '&cThe Owner of this Shop has insufficient Funds!'
+  not-enough-items:
+  - '&cYou do not have enough Items'
+  not-enough-items-owner:
+  - '&cThis Shop is sold out!'
+  disabled:
+  - '&cThis Shop is currently disabled! Come back later!'
+  editing:
+  - '&cThis Shop is currently being edited! Please come back later!'
+  sold:
+  - '&8+ &6{MONEY} &8[&cSold&o {AMOUNT} &cItems&8]'
+  sold-owner:
+  - '&8- &6{MONEY} &8[&c{PLAYER} sold&o {AMOUNT} &cItems&8]'
+  bought:
+  - '&8- &6{MONEY} &8[&cBought&o {AMOUNT} &cItems&8]'
+  bought-owner:
+  - '&8+ &6{MONEY} &8[&c{PLAYER} bought&o {AMOUNT} &cItems&8]'
+  reached-max-price:
+  - '&cMax Price reached!'
+market:
+  link:
+  - '&eYou are not done yet! RIGHT CLICK an existing MarketStand Sign to link it to
+    the Shop you are creating, click any other Block to cancel the Shop Creation'
+  link-success:
+  - '&aSuccessfully created a Market-Shop!'
+  link-abort:
+  - '&cShop Creation cancelled.'
+  insufficient-funds:
+  - '&cYou do not have enough Money to rent this Marketstand for that long'
+  too-long:
+  - '&cYou cannot rent a Marketstand for that long!'
+  rented:
+  - '&aYou successfully rented this MarketStand for %days% Day(s)!'
+  not-a-valid-price:
+  - '&cThe Price on Line 2 is not valid!'

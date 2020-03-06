@@ -1,0 +1,22 @@
+messages:
+  full-inventory:
+  - '&4&lYour Inventory is full!'
+  full-inventory-title:
+  - '&4Your Inventory is full!'
+  full-inventory-subtitle:
+  - '&8- Sell your Items at a nearby Sign -'
+  full-inventory-actionbar:
+  - '&4&lYour Inventory is full!'
+command:
+  no-permission:
+  - '&4&lYou do not have permission for this command'
+autosell:
+  toggle:
+  - '&7Automatical Selling is now turned: %state%'
+  stats:
+  - ''
+  - '&4&l- AutoSell Stats for the last 100 Blocks -'
+  - ''
+  - '&8Total amount of Items sold: &c%items%'
+  - '&8Total amount of Money earned: &c%money%'
+  - ''
